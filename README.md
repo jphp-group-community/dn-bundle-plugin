@@ -1,5 +1,6 @@
 # dn-bundle-plugin
 Плагин для создания бандлов для DevelNext с помощью jppm
+
 ## Usage
 Edit you package.php.yml like this:
 ```yaml
